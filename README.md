@@ -1,5 +1,4 @@
 # universalbuy
-INFS3202 final project 
 
 utilised: 
 bootstrap 
