@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51a0e62b-e7fc-452d-adb7-4372bd0d8454" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/htdocs/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZVcJk1srW1FTLXzfprKVQo2X6f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Documents/UQ/yearthree/deco3850/Sin_jw" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\images" />
+      <recent name="C:\xampp\htdocs\test" />
+      <recent name="C:\xampp\htdocs\infs3202_sample\image" />
+      <recent name="C:\xampp\htdocs\universalbuy\application\views" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\resources" />
+      <recent name="C:\xampp\htdocs\application\controllers" />
+      <recent name="C:\xampp\htdocs\application\models" />
+      <recent name="C:\xampp\htdocs\application\views" />
+      <recent name="C:\xampp\htdocs\infs3202_quiz2\application\views" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51a0e62b-e7fc-452d-adb7-4372bd0d8454" name="Default Changelist" comment="" />
+      <created>1584927631971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584927631971</updated>
+      <workItem from="1584927635167" duration="2432000" />
+      <workItem from="1584939986588" duration="1172000" />
+      <workItem from="1585043282758" duration="11505000" />
+      <workItem from="1586499076678" duration="18296000" />
+      <workItem from="1586941929705" duration="3487000" />
+      <workItem from="1587342094710" duration="19547000" />
+      <workItem from="1587889249849" duration="41229000" />
+      <workItem from="1588055334707" duration="60601000" />
+      <workItem from="1588306605916" duration="963000" />
+      <workItem from="1589514052453" duration="13677000" />
+      <workItem from="1589597372938" duration="6559000" />
+      <workItem from="1589710413604" duration="8874000" />
+      <workItem from="1589760543104" duration="8999000" />
+      <workItem from="1589774317463" duration="88766000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="140" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588057773252">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="208" y="140" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1504.963@0.0.1504.963" timestamp="1588057773252" />
+    <state x="507" y="292" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589716944837">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="507" y="292" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1504.963@0.0.1504.963" timestamp="1589716944837" />
+    <state x="507" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1589716639555">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="507" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1504.963@0.0.1504.963" timestamp="1589716639555" />
+    <state x="516" y="354" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1590475446597">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="516" y="354" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1504.963@0.0.1504.963" timestamp="1590475446597" />
+    <state x="533" y="237" key="FileChooserDialogImpl" timestamp="1590902699100">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="533" y="237" key="FileChooserDialogImpl/0.0.1504.963@0.0.1504.963" timestamp="1590902699100" />
+    <state x="522" y="316" key="NewPhpClassDialog" timestamp="1589714509375">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="522" y="316" key="NewPhpClassDialog/0.0.1504.963@0.0.1504.963" timestamp="1589714509375" />
+    <state x="588" y="414" key="NewPhpFileDialog" timestamp="1590328983700">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="588" y="414" key="NewPhpFileDialog/0.0.1504.963@0.0.1504.963" timestamp="1590328983700" />
+    <state x="254" y="124" key="SettingsEditor" timestamp="1588058684604">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="254" y="124" key="SettingsEditor/0.0.1504.963@0.0.1504.963" timestamp="1588058684604" />
+    <state x="453" y="306" key="com.intellij.ide.util.TipDialog" timestamp="1589774326946">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="453" y="306" key="com.intellij.ide.util.TipDialog/0.0.1504.963@0.0.1504.963" timestamp="1589774326946" />
+    <state x="415" y="206" width="672" height="678" key="search.everywhere.popup" timestamp="1589716595646">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="415" y="206" width="672" height="678" key="search.everywhere.popup/0.0.1504.963@0.0.1504.963" timestamp="1589716595646" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/htdocs/infs3202_sample/application/controllers/Entry.php</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/htdocs/infs3202_sample/application/controllers/Entry.php</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/htdocs/application/views/product.php</url>
+          <line>40</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/htdocs/infs3202_quiz2/application/views/quiz2_movie.php</url>
+          <line>15</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/htdocs/application/models/Profile_model.php</url>
+          <line>28</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/htdocs/application/controllers/Product.php</url>
+          <line>107</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/htdocs/application/models/Product_model.php</url>
+          <line>63</line>
+          <properties>
+            <option name="className" value="\Product_model" />
+            <option name="methodName" value="do_edit" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
